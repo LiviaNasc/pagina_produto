@@ -1,5 +1,5 @@
 body{
-  background-color: #eee;
+  background-color: #2e2e2e;
   font-family: "Lato", sans-serif;
 }
 
@@ -37,7 +37,7 @@ li{
 }
 
 .nav-link{
-  color:black;
+  color:whitesmoke;
   text-decoration: none;
 }
 
@@ -91,7 +91,7 @@ li{
   align-items: center;
 }
 
-.fa-salad{
+.fa-solid{
   color: darkorange;
   font-size: 50px;
 }
