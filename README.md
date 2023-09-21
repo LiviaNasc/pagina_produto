@@ -9,9 +9,9 @@ Este é um projeto de uma uma página de um produto desenvolvido pela trilha de 
 ![](https://drive.google.com/uc?id=1Xz1CgG9rMZe6gjTg4VIbAJ3IQEm_r2a6)
 
 ### Colaboradores:
-* Jonhatan Rodrigues dos Santos
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/johndriguess/)
-* Lívia Nascimento Oliveira
+* Jonhatan Rodrigues dos Santos
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FF0000)](https://github.com/LiviaNasc/)
-* Maria Eduarda da Silva
+* Lívia Nascimento Oliveira
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=008000)](https://github.com/thinkmadu/)
+* Maria Eduarda da Silva
