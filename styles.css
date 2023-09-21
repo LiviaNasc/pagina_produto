@@ -1,6 +1,7 @@
 body{
-  background-color: #2e2e2e;
+  background-color: #242424;
   font-family: "Lato", sans-serif;
+  color: whitesmoke;
 }
 
 #header{
@@ -80,8 +81,6 @@ li{
 .grid{
   display: flex;
   flex-direction: row;
-  max-width: 1000px;
-  width: 100;
 }
 
 .icon{
@@ -92,8 +91,19 @@ li{
 }
 
 .fa-solid{
-  color: darkorange;
   font-size: 50px;
+}
+
+.fa-fire{
+  color: red;
+}
+
+.fa-truck-fast{
+  color: green;
+}
+
+.fa-face-laugh-wink{
+  color: darkorange;
 }
 
 #howItWorks{
@@ -118,14 +128,14 @@ li{
   align-items: center;
   text-align: center;
   width: calc(80%/3);
-  border: 1px solid black;
+  border: 1px whitesmoke;
   margin: 30px;
   border-radius: 3px;
 }
 
 .level{
-  background-color: #ddd;
-  color: black;
+  background-color: #767575;
+  color: whitesmoke;
   width: 100%;
   padding: 15px 0;
   font-weight: 700px;
@@ -147,12 +157,12 @@ ol > li{
   min-width: 100px;
 }
 
-@media(mas-width: 500px){
+@media(max-width: 500px){
   #pricing{
     flex-direction: column;
     justify-content: center;
   }
-  .produc{
+  .product{
       width: 300px;
   }
 }
