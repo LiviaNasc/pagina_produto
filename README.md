@@ -1,5 +1,4 @@
 # Página de um produto: CubosMagikos 
-Criação de página inicial para um produto desenvolvida como parte do curso do FreeCodeCamp
 Este é um projeto de uma uma página de um produto desenvolvido pela trilha de Design Responsivo para a Web da plataforma [FreeCodeCamp](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/). Todo o código do projeto foi desenvolvido em grupo por estudantes da instituição de ensino UEPB (Universidade Estadual da Paraíba) como parte da disciplina de Tecnologias de Desenvolvimento de Interface Gráfica.
 
 ## Tecnologias Utilizadas
